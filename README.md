@@ -28,23 +28,11 @@
 
 
 
-
+--------
 
 交流QQ群：
 
 ![qqrout](./images/qqrout.jpg)
-
-
-
-QQ: 695876649
-
-![qq](./images/qq.jpg)
-
-
-
-
-
-
 
 ## 声明
 
